@@ -2,7 +2,6 @@
 
 # ── 𝕿𝖍𝖊 𝖁𝖔𝖎𝖉 ──
 
-<!-- Мрачный баннер с помехами (из твоего репозитория) -->
 <img src="noise.gif" width="100%" height="80px" style="object-fit: cover;" />
 
 <br>
@@ -31,7 +30,6 @@
 
 <br><br>
 
-<!-- Финальная линия статического шума -->
-<img src="line.gif" width="100%" height="4px" />
+<img src="line.gif" width="100%" height="130px" />
 
 </div>
