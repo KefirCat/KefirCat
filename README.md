@@ -2,28 +2,36 @@
 
 # ── 𝕿𝖍𝖊 𝖁𝖔𝖎𝖉 ──
 
-<samp>
-A completely broken person.<br>
-No feelings, nothing, a mental disorder.<br>
-Just a terrible person.
-</samp>
+<!-- Мрачный баннер с помехами -->
+<img src="https://giphy.com" width="100%" height="80px" style="object-fit: cover;" />
 
----
+<br>
 
-<table bgcolor="#0d1117" width="100%">
+<h1><b>A completely broken person.</b></h1>
+<h1><b>No feelings, nothing, a mental disorder.</b></h1>
+<h1><b>Just a terrible person.</b></h1>
+
+<br>
+
+<img src="https://giphy.com" width="60%" height="3px" />
+
+<br><br>
+
+<table bgcolor="#0d1117" width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td>
-<p align="left">
-This happens almost every day. Every damn day I remember it and realize that I couldn’t have done anything because I was weak.
-</p>
-<p align="left">
-This fucking happens every damn day.
-</p>
+<td align="center">
+<h2><b>This happens almost every day. Every damn day I remember it and realize that I couldn’t have done anything because I was weak.</b></h2>
+<br>
+<h2><b>This fucking happens every damn day.</b></h2>
+<br>
+<h2><b>Every time I realize that no matter what I do, I won’t be able to fix it; all I can do is rot and then burn.</b></h2>
 </td>
 </tr>
-<p align="left">
-Every time I realize that no matter what I do, I won’t be able to fix it; all I can do is rot and then burn.
-</p>
 </table>
+
+<br><br>
+
+<!-- Финальная линия статического шума -->
+<img src="https://giphy.com" width="100%" height="4px" />
 
 </div>
