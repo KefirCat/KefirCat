@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**KefirCat/KefirCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ── 𝕿𝖍𝖊 𝖁𝖔𝖎𝖉 ──
 
-Here are some ideas to get you started:
+<samp>
+A completely broken person.<br>
+No feelings, nothing, a mental disorder.<br>
+Just a terrible person.
+</samp>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<table bgcolor="#0d1117" width="100%">
+<tr>
+<td>
+<p align="left">
+This happens almost every day. Every damn day I remember it and realize that I couldn’t have done anything because I was weak.
+</p>
+<p align="left">
+This fucking happens every damn day.
+</p>
+</td>
+</tr>
+<p align="left">
+Every time I realize that no matter what I do, I won’t be able to fix it; all I can do is rot and then burn.
+</p>
+</table>
+
+</div>
