@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="line.gif" width="60%" height="3px" />
+<img src="line.gif" width="60%" height="90px" />
 
 <br><br>
 
